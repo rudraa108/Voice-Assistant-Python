@@ -1,0 +1,6 @@
+The code implements a simple voice-controlled personal assistant using Python. It can:
+
+Convert text to speech using pyttsx3.
+Listen and recognize voice commands with speech_recognition.
+Perform tasks like searching Wikipedia, opening websites (YouTube, Google), playing music from a directory, telling the current time, and sending WhatsApp messages using pywhatkit.
+It also greets the user based on the time of day and waits for further commands until the user says "exit" or "quit" to terminate the program.
